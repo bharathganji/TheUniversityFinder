@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204602810217",
+    "firebase_url": "https://hooper-87208.firebaseio.com",
+    "project_id": "hooper-87208",
+    "storage_bucket": "hooper-87208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204602810217:android:4d24fd903ac5c3a65d27f8",
+        "android_client_info": {
+          "package_name": "com.hoopers.theuniversityfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204602810217-iat0b04ss790tm40mpuqdcbgtkbc7g1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq9JhIwzyi6YVLGS9Rp4ORUp5G5qSY9Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204602810217-iat0b04ss790tm40mpuqdcbgtkbc7g1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

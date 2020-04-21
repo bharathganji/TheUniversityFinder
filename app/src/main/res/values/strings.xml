@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">The University Finder</string>
+    <string name="terms_of_service"><u>Terms of service.</u></string>
+    <string name="facebook_app_id">1900033306807387</string>
+    <string name="fb_login_protocol_scheme">fb1900033306807387</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="countries_array">
+        <item>Looking for..</item>
+        <item>Australia</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Russia</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>United States Minor Outlying Islands</item>
+    </string-array>
+
+</resources>
